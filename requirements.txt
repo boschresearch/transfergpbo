@@ -1,0 +1,5 @@
+scipy==1.7.1
+numpy==1.21.2
+emukit==0.4.8
+scikit-learn==0.24.2
+GPy==1.10.0
